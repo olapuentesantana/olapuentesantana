@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! I'm Óscar 👋
+---
+<h3 align="left">A Ph.D. candidate at Eindhoven University of Technology (TU/e), that wants to make his contribution to the field of personalized immuno-oncology </h3>
+
+- 🔭 I’m currently working on systems modelling of the tumor microenvironment.
+
+- 📫 How to reach me: **<a href="mailto:o.lapuente.santana@tue.nl">email me</a>, <a href="https://twitter.com/LapuenteSantana" target="blank">DM on Twitter </a> or <a href="https://www.linkedin.com/in/óscar-lapuente-santana-aa3b24124" target="blank">LinkedIn </a>**.
+
+- ⚡ Fun fact: I am crazy about food, I just love eating :satisfied:. I am a crossfit freak too!
 
 <!--
 **olapuentesantana/olapuentesantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
