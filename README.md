@@ -1,6 +1,6 @@
 ### Hi there! I'm Óscar 👋
 ---
-<h3 align="left">A Ph.D. candidate at Eindhoven University of Technology (TU/e), that wants to make his contribution to the field of personalized immuno-oncology </h3>
+<h3 align="left">A Ph.D. candidate at Eindhoven University of Technology (TU/e), that wants to make his contribution to the field of cancer research. </h3>
 
 - 🔭 I’m currently working on systems modelling of the tumor microenvironment.
 
