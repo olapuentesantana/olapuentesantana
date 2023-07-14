@@ -1,8 +1,8 @@
 ### Hi there! I'm Óscar 👋
 ---
-<h3 align="left">Postdoc at the Bioinformatics Unit of Spanish National Cancer Research Centre (CNIO) that wants to make his contribution to the field of cancer research. </h3>
+<h3 align="left">Postdoc at the Bioinformatics Unit of Spanish National Cancer Research Centre (CNIO). </h3>
 
-- 🔭 I’m currently working on understanding the crosstalk between the tumor and its microenvironment.
+- 🔭 Leveraging computational approaches, I work on improving the knowledge of the crosstalk between the tumor and its microenvironment.
 
 - 📫 How to reach me: **<a href="mailto:o.lapuente.santana@tue.nl">email me</a>, <a href="https://twitter.com/LapuenteSantana" target="blank">DM on Twitter </a> or <a href="https://www.linkedin.com/in/óscar-lapuente-santana-aa3b24124" target="blank">LinkedIn </a>**.
 
