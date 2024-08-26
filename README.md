@@ -1,6 +1,6 @@
 ### Hi there! I'm Óscar 👋
 ---
-<h3 align="left">Postdoc at the Bioinformatics Unit of Spanish National Cancer Research Centre (CNIO). </h3>
+<h3 align="left">Data Scientist at the Bioinformatics Unit of Spanish National Cancer Research Centre (CNIO). </h3>
 
 - 🔭 Leveraging computational approaches, I work on improving the current knowledge of the crosstalk between the tumor and its microenvironment, and how this influences the response to treatment. Taken together, this understanding can help to elucidate new biomarkers, drug targets and therapeutic strategies.
 
